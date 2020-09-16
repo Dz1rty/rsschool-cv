@@ -5,7 +5,7 @@
    * my Discord nickname: Dzirty#4097;
    * my e-mail: antonpronin2014@yandex.ru; 
 ---
- ### My goal ### is to gain new knowledge and experience to get a profession in IT.
+ ### My goal is to gain new knowledge and experience to get a profession in IT.
 ---
  ### Skills:
    * Basic CSS 
