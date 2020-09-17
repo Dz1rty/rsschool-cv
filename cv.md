@@ -18,7 +18,7 @@
 > 
 ---
  ### Experience:
-I have no experience in commercial development, but I'm currently taking a course "The Rolling scopes school"
+  * I have no experience in commercial development, but I'm currently taking a course "The Rolling scopes school"
 ---
  ### Education:
   * Ryazan State Radio Engineering University - bachelor's degree in management in technical systems
